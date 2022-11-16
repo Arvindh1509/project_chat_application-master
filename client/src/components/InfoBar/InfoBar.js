@@ -16,7 +16,7 @@ return(
   <div className="infoBar">
     <div className="leftInnerContainer">
     
-      <img className="onlineIcon" src={onlineIcon} alt="online icon" />
+    <img alt="Online Icon" src={onlineIcon}/>
      
       <h3 style={{color:"white"}}>{room}</h3>
     </div>

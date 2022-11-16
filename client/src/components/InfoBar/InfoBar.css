@@ -6,6 +6,7 @@
   border-radius: 4px 4px 0 0;
   height: 60px;
   width: 100%;
+  /* background-image: url('https://i.pinimg.com/736x/2a/be/e4/2abee4e7a6adacf15aa8ee6c8931c92e.jpg'); */
 }
 
 .leftInnerContainer {
@@ -14,6 +15,7 @@
   align-items: center;
   margin-left: 5%;
   color: white;
+  
 }
 
 .rightInnerContainer {
@@ -24,7 +26,8 @@
 }
 
 .onlineIcon {
-   margin-right: 5%;
- size: 10px;
-  
+  margin-right: 5%;
+  width: 40px !important;
+  height: 40px !important;
+  padding: 2px 2px 2px 2px;
 }
